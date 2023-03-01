@@ -4,7 +4,9 @@
 <p align="center">
 <img src= "https://user-images.githubusercontent.com/74512335/138792965-4a9225f1-09fc-4479-8dac-355f87af8f6f.png" />
 </p>
---------------
+
+**Link to dataset: https://www.mavenanalytics.io/blog/maven-taxi-challenge**
+
 ## Introduction
 - This dataset is a part of maven taxi challenge and we are analyzing this massive dataset, containing more than 28 million taxi trips in New York City.
 - Our assignment is to wrangle this massive data set, perform a thorough QA and cleaning of the data, and present a dashboard that the Lead Dispatcher can use to accurately understand historical trip information.
@@ -12,10 +14,7 @@
 ## Objective
 - The `core objective` of this project to understand the historical trips for all Green Taxis in New York City, NYC (2017 – 2020) and to `uncover patterns and trends, with a focus on identifying opportunities to increase the efficiency of taxi services and improve customer satisfaction` in order to help firms for  better allocation of resources and meet the needs of the public.
 ----------------
-## Source of the data
 
-- [Visit here](https://www.mavenanalytics.io/data-playground?search=NYC%20Taxi%20Trips)
---------------
 ## About the dataset
 - This dataset contains 6 tables in csv format, along with a geospatial map in TopoJSON and Shapefile formats
 - The `4 Taxi Trips tables `contain a total more than `28 million` Green Taxi trips in New York City from 2017 to 2020. Each record represents one trip, with fields containing details about the pick-up/drop-off times and locations, distances, fares, passengers, and more
