@@ -89,6 +89,7 @@ Variable Name | Description |
 - Astoria
 - East Harleem South
 ----------
+- Due to covid-19 outbreak in 2019 there is a dip in the taxi trips
 - The busiest day of the week are the weekdays.
 - The busiest hours in a day are are from 4pm to 7pm.
 - More consideration should be take into account with the decrease in rides in 2020, dues to the Covid-19 pandemic.
